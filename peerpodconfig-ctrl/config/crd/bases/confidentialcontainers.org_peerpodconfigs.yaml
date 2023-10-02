@@ -13,7 +13,7 @@ spec:
     listKind: PeerPodConfigList
     plural: peerpodconfigs
     singular: peerpodconfig
-  scope: Namespaced
+  scope: Cluster 
   versions:
   - name: v1alpha1
     schema:
